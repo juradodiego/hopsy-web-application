@@ -6,10 +6,10 @@ Welcome to Hopsy, a full-stack e-commerce platform focusing on beer and similar 
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [License](#license)
 <!-- - [Installation](#installation) -->
 <!-- - [Usage](#usage) -->
 <!-- - [Contributing](#contributing) -->
-- [License](#license)
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Hopsy is more than just an e-commerce platform; it's a celebration of beer cultu
 
 7. **Admin Dashboard**: Gain valuable insights and control over your platform with a powerful admin dashboard, equipped with advanced analytics, inventory management, and user administration capabilities.
 
-## Licence
+## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
